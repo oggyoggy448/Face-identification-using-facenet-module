@@ -1,0 +1,6 @@
+PIL
+mtcnn
+numpy
+keras
+matplotlib
+sklearn.metrics
